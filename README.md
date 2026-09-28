@@ -1,13 +1,13 @@
 # Consulta de Endereço via CEP (ViaCEP)
 
-**Integrantes:** Seu Nome Aqui  
-**Disciplina:** Programação para Dispositivos Móveis / Programação em Dart  
+**Integrantes:** Sara Souza Rodrigues
+**Disciplina:** Programação para Dispositivos Móveis
 **API Escolhida:** ViaCEP (`https://viacep.com.br/ws/`)
 
 ---
 
 ## Descrição da Aplicação
-Aplicação em linha de comando desenvolvida em Dart puro para consultar endereços do Brasil através do CEP informado pelo usuário. A aplicação trata exceções, exibe histórico e permite exportar dados.
+Aplicação em linha de comando desenvolvida em Dart puro para consultar endereços das Cidades do Brasil através do CEP informado pelo usuário.
 
 ---
 
